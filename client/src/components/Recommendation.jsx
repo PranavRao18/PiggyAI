@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Recommendation({ expenses }) {
+function Recommendation() {
   return (
     <div className="recommendation">
       <h2>Recommendation</h2>
